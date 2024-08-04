@@ -1,4 +1,4 @@
-# stopwatch
+# Stopwatch
 
 A new Flutter project.
 
